@@ -1,6 +1,6 @@
 # 🎯 스마트 축사 플랫폼 FarmsEye Project
 
-# 프로젝트 개요
+## 프로젝트 개요
 
 | **항목** | **내용** |
 | --- | --- |
@@ -22,27 +22,11 @@
 - 지속 가능한 농업 및 사회적 책임
 </aside>
 
-![logo.png](attachment:4c489828-aaa1-4fed-9aa0-4d33bfd29493:logo.png)
-
-**농장**을 의미하는 단어 **Farms**와 **감시** 혹은 **눈**을 뜻하는 **Eye**의 합성어
-
-### [로고의 의미]
-
-완전의 의미를 가지는 **육각형** 형태에 가축의 이미지를 그림자로 배치.
-
-자연을 상징하는 **초록**으로 표현해 서비스의 성격을 나타냈습니다.
-
-⚡ 
-
 ---
 
 
-## ❓ Github 이동하기
-- [**FarmsEye 프론트엔드 앱**](https://github.com/pseudopamine/farmseye_frontend_app)
-- [**FarmsEye 백엔드**](https://github.com/pseudopamine/farmseye_backend)
-- 블로그에서 글을 쓰는 것처럼 쉽게 글을 작성하고 스타일을 적용하면 오른쪽(👉)에 미리보기로 확인하실 수 있어요.   
-- 스타일을 적용하면 마크다운 문법 및 md 파일에서 인식할 수 있는 소스코드가 자동으로 적용돼요.   
-- 커서 위치, 드래그한 영역 등에 따라 스타일을 적용할 수 있으니 자유롭게 사용해보세요!
-- 복사하기를 통해 본문 내용을 복사하고 여러분의 README에 적용해보세요.
-
+## 📂 Github 이동하기
+- [**📄FarmsEye 백엔드**](https://github.com/pseudopamine/farmseye_backend)
+- [**📄FarmsEye 프론트엔드 앱**](https://github.com/pseudopamine/farmseye_frontend_app)
+- [**📄FarmsEye 프론트엔드 웹**](https://github.com/pseudopamine/farmseye_frontend_web)
 ---
