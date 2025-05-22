@@ -1,8 +1,7 @@
 # 🎯 스마트 축사 플랫폼 FarmsEye Project
 
-//![Image](https://github.com/user-attachments/assets/3bd467c7-fbad-47ea-9049-e880e7c795b4)
+![Image](https://github.com/user-attachments/assets/3bd467c7-fbad-47ea-9049-e880e7c795b4)
 
-<img src="https://github.com/user-attachments/assets/3bd467c7-fbad-47ea-9049-e880e7c795b4"  width="700" height="370">
 
 
 ## 프로젝트 개요
@@ -15,20 +14,12 @@
 | **담당 역할** | Spring 및 Flask 서버 구축, 로그인 및 회원 관리 기능, 액츄에이터 제어 기능 구현 |
 | **개발 기간** | 총 57일 (2025.03.21 ~ 2025.05.16) |
 
-### Project Overview
-
-<aside>
-❓ 왜 스마트 축사일까?
-
-노동력이 줄어듦에 따라 생산성이 저하되며, 탄소 배출 문제가 대두
-
-- 스마트 농업의 성장과 축산업의 효율화
-- 환경 및 자원 관리 최적화
-- 지속 가능한 농업 및 사회적 책임
-</aside>
-
----
-
+## 📋개발환경
+- IntelliJ
+- VS Code
+- Postman
+- HeidiSql
+- GitHub
 
 ## 📂 Github 이동하기
 - [**📄FarmsEye 백엔드**](https://github.com/pseudopamine/farmseye_backend)
