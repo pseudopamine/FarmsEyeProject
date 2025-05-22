@@ -1,26 +1,10 @@
+🎯 스마트 축사 플랫폼 FarmsEye Project
+
 **Contact**
 
 - **Email**  **|** **jinseonglae@gmail.com**
 - **Github** **|** [**https://github.com/pseudopamine**](https://github.com/pseudopamine)
 - **Phone** **|** **010.2870.1214**
-
-# PORTFOLIO INDEX
-
-*클릭 시 해당 페이지로 이동합니다.*
-
-### 1. [**프로젝트 개요**🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-
-### 2. [프로젝트 설명🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-
-1. [사용 기술🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-2. [프로젝트 구조🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-3. [ERD🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-4. [프로젝트 주요 구현 기능🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-
-### 3. [개인 내용🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-
-1. [직접 구현한 기능🔗](https://www.notion.so/Smart-Farm-PORTFOLIO_-1f43fd941ed680808ac8fd69750d9866?pvs=21)
-2. 프로젝트에서 발휘한 역량과 성장한 점🔗
 
 ---
 
@@ -56,24 +40,16 @@
 
 자연을 상징하는 **초록**으로 표현해 서비스의 성격을 나타냈습니다.
 
-⚡ 프로젝트 github 바로가기
+⚡ 
 
 ---
 
-# 프로젝트 설명
 
-### 1) 사용 기술
-
----
-
-**Frontend   `React`** **`React-Native`** **`Redux`** **`JavaScript`** **`HTML` `CSS`**  
-
----
-
-**Backend**    **`SpringBoot`** **`Spring Security`** **`Python`** **`Flask`** **`MySQL` `MariaDB`**  
-
----
-
-**Tool           `VSCode` `IntelliJ` `Notion` `RaspberryPi`**
+## ❓ Github 이동하기
+- **FarmsEye 프론트엔드 앱**(https://github.com/pseudopamine/farmseye_frontend_app)
+- 블로그에서 글을 쓰는 것처럼 쉽게 글을 작성하고 스타일을 적용하면 오른쪽(👉)에 미리보기로 확인하실 수 있어요.   
+- 스타일을 적용하면 마크다운 문법 및 md 파일에서 인식할 수 있는 소스코드가 자동으로 적용돼요.   
+- 커서 위치, 드래그한 영역 등에 따라 스타일을 적용할 수 있으니 자유롭게 사용해보세요!
+- 복사하기를 통해 본문 내용을 복사하고 여러분의 README에 적용해보세요.
 
 ---
