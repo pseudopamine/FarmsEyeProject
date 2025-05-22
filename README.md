@@ -1,7 +1,6 @@
 # 🎯 스마트 축사 플랫폼 FarmsEye Project
 
-[(https://github.com/pseudopamine/FarmsEyeProject/issues/1#issue-3081772590)](https://github.com/pseudopamine/FarmsEyeProject/issues/1#issue-3081772590)
-
+![Image](https://github.com/user-attachments/assets/3bd467c7-fbad-47ea-9049-e880e7c795b4)
 ## 프로젝트 개요
 
 | **항목** | **내용** |
