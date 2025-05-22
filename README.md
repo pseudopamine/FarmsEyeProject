@@ -1,12 +1,4 @@
-🎯 스마트 축사 플랫폼 FarmsEye Project
-
-**Contact**
-
-- **Email**  **|** **jinseonglae@gmail.com**
-- **Github** **|** [**https://github.com/pseudopamine**](https://github.com/pseudopamine)
-- **Phone** **|** **010.2870.1214**
-
----
+# 🎯 스마트 축사 플랫폼 FarmsEye Project
 
 # 프로젝트 개요
 
