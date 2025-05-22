@@ -46,7 +46,7 @@
 
 
 ## ❓ Github 이동하기
-- **FarmsEye 프론트엔드 앱**(https://github.com/pseudopamine/farmseye_frontend_app)
+- **[FarmsEye 프론트엔드 앱]**(https://github.com/pseudopamine/farmseye_frontend_app)
 - 블로그에서 글을 쓰는 것처럼 쉽게 글을 작성하고 스타일을 적용하면 오른쪽(👉)에 미리보기로 확인하실 수 있어요.   
 - 스타일을 적용하면 마크다운 문법 및 md 파일에서 인식할 수 있는 소스코드가 자동으로 적용돼요.   
 - 커서 위치, 드래그한 영역 등에 따라 스타일을 적용할 수 있으니 자유롭게 사용해보세요!
