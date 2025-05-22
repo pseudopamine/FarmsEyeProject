@@ -1,10 +1,10 @@
-# 🎯 스마트 축사 플랫폼 FarmsEye Project
+# 🚀스마트 축사 플랫폼 FarmsEye Project
 
 ![Image](https://github.com/user-attachments/assets/3bd467c7-fbad-47ea-9049-e880e7c795b4)
 
 
 
-## 프로젝트 개요
+## 🎯프로젝트 개요
 
 | **항목** | **내용** |
 | --- | --- |
